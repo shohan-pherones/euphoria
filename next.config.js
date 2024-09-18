@@ -12,6 +12,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "https://www.pexels.com/",
       },
+      {
+        protocol: "https",
+        hostname: "https://s1.gifyu.com/",
+      },
     ],
   },
 };
