@@ -7,7 +7,7 @@ const data = {
   amount_total: 49492,
   automatic_tax: { enabled: false, status: null },
   billing_address_collection: null,
-  cancel_url: "http://localhost:3000/cart",
+  cancel_url: "https://euphoria-ecommerce.vercel.app/cart",
   client_reference_id: null,
   consent: null,
   consent_collection: null,
@@ -85,7 +85,7 @@ const data = {
   status: "complete",
   submit_type: null,
   subscription: null,
-  success_url: "http://localhost:3000/success",
+  success_url: "https://euphoria-ecommerce.vercel.app/success",
   total_details: { amount_discount: 0, amount_shipping: 1500, amount_tax: 0 },
   url: null,
 };
